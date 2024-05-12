@@ -1,0 +1,2 @@
+latihan penggunaan BLoC
+tutorial: Flutter 69 BLoC Listener (Tutorial Flutter Bahasa Indonesia) by Kuldii Project
